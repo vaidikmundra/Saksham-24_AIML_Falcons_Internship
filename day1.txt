@@ -1,0 +1,3 @@
+Question .  what is Eval function and input ?
+Ans= Eval  :  a built-in function that allows us to evaluate the Python expression as a 'string' and return the value as an integer.
+     Input :   The python input function is used to derive input from the user. The function reads the line of input, and converts the input into a string, and returns the output.

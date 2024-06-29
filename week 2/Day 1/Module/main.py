@@ -2,5 +2,5 @@
 
 import mymodule
 
-print(mymodule.greet("deepanshi"))
+print(mymodule.greet("VAIDIK"))
 print(mymodule.add(3, 4))

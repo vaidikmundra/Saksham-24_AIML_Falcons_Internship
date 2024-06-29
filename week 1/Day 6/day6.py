@@ -1,6 +1,6 @@
 dic = {
-'name' : "deepanshi",
-'city': "kota",
+'name' : "Vaidik",
+'city': "BHILWARA",
 'age' : 19
 }
 
